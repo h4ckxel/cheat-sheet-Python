@@ -17,7 +17,7 @@ varias líneas
 ```python
 nombre = "Acxel"        # cadena de texto (string)
 edad = 20               # entero (int)
-altura = 1.75           # número con decimales (float)
+altura = 1.65           # número con decimales (float)
 es_programador = True   # booleano (True/False)
 ```
 
