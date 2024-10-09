@@ -124,7 +124,7 @@ except ValueError:
 import math
 print(math.sqrt(16))  # raíz cuadrada
 ```
->[!NOTE] Nota
+>[!NOTE]
 En python para instalar el paquete es necesario hacerlo desde el kernel (***terminal***), por ejemplo para instalar "***math***". Se pone en la terminal ***`pip install math`***.
 >
 ```python```
