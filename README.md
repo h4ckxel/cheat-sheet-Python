@@ -390,7 +390,13 @@ print(suma(5, 7))
 
 </details>
 
+<div align="center">
+
+<img src="images/h4ckxelbanner.gif" width="80%"/>
+
 *Este cheat sheet fue hecho por [h4ckxel](https://github.com/h4ckxel). ¡Buena suerte aprendiendo un nuevo lenguaje!*
+
+</div>
 
 ---
 
