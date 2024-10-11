@@ -64,6 +64,12 @@ Si encuentras algún enlace roto, no dudes en crear un issue para que lo corrija
     _Una obra breve que aborda los conceptos esenciales de la programación con Python._  
 </details>
 
+<div align="center">
+
+<img src="/images/coder.gif" width="80%">
+
+</div>
+
 ---
 
 ### 📚 **Otros Recursos de Aprendizaje**
