@@ -2,7 +2,7 @@
 ### Aquí encontrarás una selección de libros recomendados para tu aprendizaje de Python. ¡Explora, aprende y mejora tus habilidades! 
 
 > [!NOTE]  
-Si encuentras algún enlace roto, no dudes en crear un issue para que lo corrija lo antes posible. 🚀
+***Si encuentras algún enlace roto, no dudes en crear un issue para que lo corrija lo antes posible***. 🚀
 
 ---
 
@@ -66,7 +66,7 @@ Si encuentras algún enlace roto, no dudes en crear un issue para que lo corrija
 
 <div align="center">
 
-<img src="/images/coder.gif" width="80%">
+<img src="/images/coder.gif" width="80%"/>
 
 </div>
 
