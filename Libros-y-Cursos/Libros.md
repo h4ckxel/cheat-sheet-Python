@@ -7,7 +7,7 @@
 ---
 
 <details>
-<summary>📖 <strong>Libros de Python</strong></summary>
+<summary> 📖 <strong>Libros de Python</strong></summary>
 
 1. [**Aprenda a pensar como un programador (con Python)**](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)  
    Autores: Allen Downey, Jeffrey Elkner, Chris Meyers  
