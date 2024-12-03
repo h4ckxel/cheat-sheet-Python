@@ -120,8 +120,8 @@ def sumar(a, b):
     """función que retorna la suma de dos números"""
     return a + b
 
-saludar("Acxel")          # llamada a la función
-print(sumar(10, 5))       # resultado de la suma
+saludar("Acxel")         # llamada a la función
+print(sumar(10, 5))      # resultado de la suma
 ```
 
 ### 6. **Manejo de Errores (Excepciones)**
