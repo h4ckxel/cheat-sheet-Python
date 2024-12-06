@@ -165,7 +165,7 @@ persona1.saludar()
 class Estudiante(Persona):
     def __init__(self, nombre, edad, carrera):
         """constructor para inicializar atributos heredados y nuevos"""
-        super().__init__(nombre, edad)  # llamar al constructor de Persona
+        super().__init__(nombre, edad)  # llamar al constructor de persona
         self.carrera = carrera
 
     def mostrar_carrera(self):
