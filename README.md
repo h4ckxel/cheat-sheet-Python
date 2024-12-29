@@ -3,7 +3,6 @@ Cheat Sheet en Python diseñado para abarcar los conceptos básicos y algunos in
 
 ---
 
-
 ### 1. **Conceptos Básicos**
 #### Comentarios
 ```python
